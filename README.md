@@ -7,6 +7,13 @@ Virtual Environment. You have to create a website to organize your Auction
 online. The website should allow different users to participate and put-up items
 in your exhibition.
 
+## How to run
+`git clone https://github.com/jaiakash/MoneyWar`
+
+`node server.js`
+
+Open `http://localhost:8080/` on any browser.
+
 ## Basic mode: (50 Points)
 1. Users should be able to sign in and register securely. No frameworks like
 passport.js should be used to implement authorization. Passwords must
