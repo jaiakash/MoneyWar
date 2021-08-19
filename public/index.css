@@ -115,9 +115,14 @@ h2.title::after {
 .jpg:hover {
     transform: scale(1.1);
 }
+
+.submit {
+    display: flex;
+    padding-top: 100px;
+    left: 20%;
+}
   
 .image {
-    position:relative;
     top: 30%;
     left: 1%;
     max-width: 960px;
