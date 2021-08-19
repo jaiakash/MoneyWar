@@ -27,11 +27,7 @@ app.post('/login', (req, res) => {
         res.send("Bad credentials");
   });
 
-app.get('/tshirt', (req, res) => {
-    res.sendFile(__dirname + '/public/tshirt.html');
-  });
-
-app.post("/tshirt", (req, res) => {
+app.post("/", (req, res) => {
     //var s = req.body.
    //res.send("You selected "+s+" tshirt.");
    //res.redirect(__dirname + '/public/index.html')
