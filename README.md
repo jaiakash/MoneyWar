@@ -17,7 +17,7 @@ Open `http://localhost:8080/` on any browser.
 ## Basic mode: (50 Points)
 1. Users should be able to sign in and register securely. No frameworks like
 passport.js should be used to implement authorization. Passwords must
-be hashed (for hashing npm packages can be used).
+be hashed (for hashing npm packages can be used). <b>Done</b>
 2. Users should be allowed to add, update, and delete their products. All the
 products should have an image and the necessary details regarding the
 product. The product should also contain tags to describe it more clearly.
@@ -31,3 +31,5 @@ with the highest bidder for that particular product.
 displayed according to the highest bid at that time.
 
 ## Git: (10 Points) - <b>Done</b>
+
+## Submitted by - Akash Jaiswal
